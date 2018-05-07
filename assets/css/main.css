@@ -2,14 +2,15 @@
 @import url("https://fonts.googleapis.com/css?family=Fira+Sans+Extra+Condensed|Noto+Sans:400,700|Roboto+Condensed:700&subset=cyrillic");
 
 
-.logo {
+#logo-moveo {
 
-	left: 450px;
+	left: 100px;
 }
 
 .placeholder {
 
 	left: 1060px;
+  top: 20px;
 }
 
 /* ---------------------------------------------- /*
@@ -35,10 +36,7 @@ body {
 .container {
   width: 1170px; }
 
-.logo {
-  
-	position: relative;
-   }
+
 
 .phone {
   padding-top: 52px;
