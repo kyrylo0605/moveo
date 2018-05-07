@@ -36,15 +36,9 @@ body {
   width: 1170px; }
 
 .logo {
-  font-family: "Roboto Condensed", sans-serif;
-  font-weight: bold;
-  color: #40a6e4;
-  font-size: 36px;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  padding-top: 37px;
-  padding-left: 53px;
-  padding-bottom: 37px; }
+  
+	position: relative;
+   }
 
 .phone {
   padding-top: 52px;
