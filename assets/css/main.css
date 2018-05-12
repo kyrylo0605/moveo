@@ -44,3 +44,9 @@ body {
   .phone .glyphicon-earphone {
     height: 12px;
     color: #40a6e4; }
+
+#advantages h2 {
+
+  text-align: center;
+  font-family: "Gotham Pro Black", sans-serif;
+}
