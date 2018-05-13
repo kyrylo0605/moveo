@@ -47,8 +47,13 @@ body {
 
 #advantages h2 {
 
-  
+
   text-align: center;
   font-family: "Gotham Pro", sans-serif;
   line-height: 1.2;
+}
+
+#dr-mes {
+
+  position: absolute;
 }
