@@ -167,7 +167,7 @@ body {
 }
 
 .pfblock-gray {
-  background: #f18a41b3;
+  background: #dbdfd1;
 }
 
 .pfblock-image {
@@ -278,5 +278,21 @@ body {
 
   position: relative;
   float: right;
-  
+
+}
+
+#circle {
+
+  width: 196px;
+  height: 196px;
+  background: #ffffff;
+  -moz-border-radius: 98px;
+  -webkit-border-radius: 98px;
+  border-radius: 98px;
+}
+
+#foots {
+
+  background: #ffffff;
+  clear: both;
 }
