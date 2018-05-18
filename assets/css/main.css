@@ -163,11 +163,11 @@ body {
 
 .pfblock {
   padding: 180px 0 100px;
-  background: #F5DEB3;
+  background: #dbdfd1;
 }
 
 .pfblock-gray {
-  background: #dbdfd1;
+  background: #f18a41b3;
 }
 
 .pfblock-image {
@@ -271,4 +271,12 @@ body {
 
 .long-down {
   margin-bottom: 40px;
+}
+
+
+#girl {
+
+  position: relative;
+  float: right;
+  
 }
