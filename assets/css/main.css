@@ -283,12 +283,18 @@ body {
 
 #circle {
 
+  position: relative;
   width: 196px;
   height: 196px;
+  float: left;
+  left: 33%;
+  top: 40%;
   background: #ffffff;
   -moz-border-radius: 98px;
   -webkit-border-radius: 98px;
   border-radius: 98px;
+  box-shadow: 5px 5px 4px #dcddd5;
+
 }
 
 #foots {
