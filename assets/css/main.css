@@ -209,7 +209,7 @@ body {
 }
 
 .pfblock-subtitle {
-  font-family: "Indi Flower", Roboto, sans-serif;
+  font-family: Roboto, sans-serif;
   font-style: normal;
   font-size: 18px;
   padding: 0;
@@ -289,12 +289,21 @@ body {
   width: 196px;
   height: 196px;
   left: 33%;
-  top: 40%;
+  top: 80%;
   background: #ffffff;
   -moz-border-radius: 98px;
   -webkit-border-radius: 98px;
   border-radius: 98px;
   box-shadow: 5px 5px 4px #dcddd5;
+  text-align: center;
+
+}
+
+.discount {
+
+  position: relative;
+  margin-top: 20px;
+  font-size: 36px;
 
 }
 
