@@ -277,7 +277,8 @@ body {
 #girl {
 
   position: relative;
-  background-image: contain;
+  right: 0;
+  background-image: cover;
   background-repeat: no-repeat;
   background-size: 100% 100%;
 
@@ -288,7 +289,6 @@ body {
   position: relative;
   width: 196px;
   height: 196px;
-  float: left;
   left: 33%;
   top: 40%;
   background: #ffffff;
@@ -302,5 +302,7 @@ body {
 #foots {
 
   background: #ffffff;
+  position: absolute;
+  right: 0;
   clear: both;
 }
