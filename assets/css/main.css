@@ -11,9 +11,8 @@ body {
 
 #logo-moveo {
   position: relative;
-  padding: 0;
-  right: 500px;
-  z-index: 150;
+  padding: 10px;
+  left: 10%;
 }
 
 #placeholder {
@@ -29,7 +28,7 @@ body {
 #dr-mes {
 
   position: relative;
-  left: 20%;
+  left: 10%;
 }
 
 
@@ -278,9 +277,9 @@ body {
 
   position: relative;
   right: 0;
-  background-image: cover;
+  background-image: contain;
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  background-size: auto 30%; 
 
 }
 
