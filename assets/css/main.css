@@ -280,6 +280,7 @@ body {
   background-image: contain;
   background-repeat: no-repeat;
   background-size: auto 30%; 
+  opacity: 0.3;
 
 }
 
@@ -313,10 +314,12 @@ body {
   position: absolute;
   right: 0;
   clear: both;
+  opacity: 0.3;
 }
 
 #to-girl {
 
   position: relative;
   top: 20%;
+  
 }
