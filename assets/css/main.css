@@ -302,9 +302,10 @@ body {
 
 .discount {
 
-  position: relative;
-  margin-top: 20px;
+  position: absolute;
+  margin-top: 50px;
   font-size: 36px;
+  display: block;
 
 }
 
