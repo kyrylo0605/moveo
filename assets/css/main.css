@@ -13,6 +13,11 @@ body {
   position: relative;
   padding: 10px;
   left: 10%;
+  background-image: url(../images/logo-moveo.png);
+  background-repeat: no-repeat;
+  background-size: 130px auto;
+  margin-top: 10px;
+
 }
 
 #placeholder {
@@ -286,7 +291,7 @@ body {
 
 #circle {
 
-  position: relative;
+  position: absolute;
   width: 196px;
   height: 196px;
   left: 33%;
