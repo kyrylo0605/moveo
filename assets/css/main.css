@@ -329,3 +329,12 @@ body {
   top: 20%;
   
 }
+
+#pod-miska {
+
+  background-image: url(./images/pod-miska1.png);
+  background-size: auto 925px;
+  background-repeat: no-repeat;
+  opacity: 0.3;
+
+}
