@@ -332,9 +332,11 @@ body {
 
 #pod-miska {
 
-  background-image: url(./images/pod-miska1.png);
-  background-size: auto 925px;
+  position: absolute;
+  background-image: url(../images/pod-miska1.png);
+  background-size: auto 50%;
   background-repeat: no-repeat;
   opacity: 0.3;
+  z-index: 100;
 
 }
