@@ -283,6 +283,7 @@ body {
   position: relative;
   right: 0;
   background-image: contain;
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
   background-repeat: no-repeat;
   background-size: auto 30%; 
   opacity: 0.3;
@@ -313,6 +314,13 @@ body {
   display: block;
 
 }
+
+#cont {
+
+  position: absolute;
+  right: 0;
+}
+
 
 #foots {
 
