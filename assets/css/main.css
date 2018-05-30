@@ -170,7 +170,7 @@ header {
 /* ---------------------------------------------- /*
  * General Styles
 /* ---------------------------------------------- */
-/*
+
 .pfblock {
   padding: 180px 0 100px;
   background: #dbdfd1;
@@ -282,7 +282,7 @@ header {
 .long-down {
   margin-bottom: 40px;
 }
-*/
+
 
 #girl {
 
@@ -330,27 +330,37 @@ header {
 
 #foots {
 
-  background: #ffffff;
+  background: rgba(255,255,255,.9);
   position: absolute;
-  right: 0;
-  clear: both;
-  opacity: 0.3;
+  
 }
 
 #to-girl {
-
+  background: rgba(255,255,255,.8);
   position: relative;
   top: 20%;
   
 }
 
 #pod-miska {
-
+  background: rgba(255,255,255,.8);
   position: absolute;
   background-image: url(../images/pod-miska1.png);
   background-size: auto 50%;
   background-repeat: no-repeat;
   opacity: 0.3;
   z-index: 100;
+
+}
+
+#girl {
+
+  position: relative;
+  right: 0;
+  background-image: url(../images/sunbath1.png);
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  background-repeat: no-repeat;
+  background-size: auto 30%; 
+  opacity: 0.3;
 
 }
