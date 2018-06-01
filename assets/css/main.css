@@ -291,8 +291,7 @@ header {
   background-image: url(../images/girl.png);
   background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
   background-repeat: no-repeat;
-  background-size: auto 30%; 
-  opacity: 0.3;
+  
 
 }
 
@@ -332,6 +331,7 @@ header {
 
   background: rgba(255,255,255,.9);
   position: absolute;
+  opacity: 0.3;
   
 }
 
