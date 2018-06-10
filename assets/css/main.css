@@ -324,6 +324,7 @@ header {
 
   position: absolute;
   right: 0;
+  
 }
 
 
@@ -358,7 +359,6 @@ header {
   position: relative;
   right: 0;
   background-image: url(../images/sunbath1.png);
-  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
   background-repeat: no-repeat;
   background-size: auto 30%; 
   opacity: 0.3;
