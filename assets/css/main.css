@@ -196,7 +196,6 @@ body {
   position: absolute;
   margin-top: 50px;
   font-size: 36px;
-  display: block;
 
 }
 
@@ -238,6 +237,7 @@ body {
   right: 0;
   background-image: url(../images/sunbath1.png);
   background-repeat: no-repeat;
-  background-size: auto 30%; 
+  background-size: auto 30%;
+  z-index: 10;
 
 }
