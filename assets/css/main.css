@@ -16,12 +16,14 @@ body {
 }
 
 #logo-moveo {
-  position: absolute;
-  padding: 10px;
+  position: relative;
+  padding: -10px;
   background-image: url(../images/logo-moveo.png);
   background-repeat: no-repeat;
   background-size: 130px auto;
-  margin-top: 10px;
+  z-index: 100;
+  left: 50%;
+
 
 }
 
@@ -29,6 +31,7 @@ body {
 
 	position: relative;
   margin-top: 20px;
+  left: 50%;
 
 }
 
