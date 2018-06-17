@@ -201,8 +201,8 @@ body {
 
 #cont {
 
-  position: absolute;
-  right: 0;
+  position: relative;
+  left: 50%;
   
 }
 
