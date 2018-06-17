@@ -79,7 +79,6 @@ body {
   display: block;
   min-height: auto;
   max-width: 100%;
-  opacity: 0.8;
 }
 
 .grid figure figcaption {
@@ -112,7 +111,6 @@ body {
   text-indent: 200%;
   white-space: nowrap;
   font-size: 0;
-  opacity: 0;
 }
 
 
@@ -214,7 +212,6 @@ body {
 
   background: rgba(255,255,255,.9);
   position: absolute;
-  opacity: 0.3;
   
 }
 
@@ -231,7 +228,6 @@ body {
   background-image: url(../images/pod-miska11.png);
   background-size: auto 50%;
   background-repeat: no-repeat;
-  opacity: 0.3;
   z-index: 100;
 
 }
@@ -243,6 +239,5 @@ body {
   background-image: url(../images/sunbath1.png);
   background-repeat: no-repeat;
   background-size: auto 30%; 
-  opacity: 0.3;
 
 }
