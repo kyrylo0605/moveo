@@ -228,9 +228,8 @@ body {
 }
 
 #pod-miska {
-  background: rgba(255,255,255,.8);
   position: absolute;
-  background-image: url(../images/pod-miska11.png);
+  background-image: url(../images/pod-mishka.png);
   z-index: 100;
 
 }
@@ -245,3 +244,4 @@ body {
   z-index: 10;
 
 }
+
