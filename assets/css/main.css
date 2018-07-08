@@ -46,138 +46,19 @@ body {
 }
 
 
+#girlsmile {
 
-/*--------------------------------*/
-/***** Portfolio Common style *****/
-/*--------------------------------*/
-/*
-.grid {
-  position: relative;
-  clear: both;
-  margin: 0 auto;
-  padding: 1em 0 4em;
-  max-width: 100%;
-  list-style: none;
-  text-align: center;
-}
-
-.grid h2{
-    font-size: 20px;
-}
-
-.grid figure {
-  position: relative;
-  float: left;
-  overflow: hidden;
-  margin: 10px 1%;
-  min-width: 100%;
-  max-width: 100%;
-  height: auto;
-  background: #dbdfd1;
-  text-align: center;
-  cursor: pointer;
-}
-
-.grid figure img {
-  position: relative;
-  display: block;
-  min-height: auto;
-  max-width: 100%;
-}
-
-.grid figure figcaption {
-  padding: 2em;
-  color: #fff;
-  text-transform: uppercase;
-  font-size: 1.25em;
-  -webkit-backface-visibility: hidden;
-  backface-visibility: hidden;
-}
-
-.grid figure figcaption::before,
-.grid figure figcaption::after {
-  pointer-events: none;
-}
-
-.grid figure figcaption,
-.grid figure figcaption > a {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-/* Anchor will cover the whole item by default */
-/* For some effects it will show as a button 
-.grid figure figcaption > a {
-  z-index: 1000;
-  text-indent: 200%;
-  white-space: nowrap;
-  font-size: 0;
-}
-
-
-.grid figure h2 {
-  word-spacing: -0.15em;
-  font-weight: 400;
-  font-size: 2vw;
-}
-
-.grid figure h2 span {
-  font-weight: 800;
-  font-size: 2vw;
-}
-
-.grid figure h2,
-.grid figure p {
-  margin: 0;
-}
-
-.grid figure p {
-  letter-spacing: 1px;
-  font-size: 68.5%;
-}
-
-
-@media only screen and (max-width: 780px) { /* change font-size in adaptive 
-
-   
-
-  .grid figure h2 {
-    word-spacing: -0.15em;
-    font-weight: 300;
-    font-size: 5vw;
-  }
-
-  .grid figure h2 span {
-    font-weight: 800;
-    font-size: 5vw;
-  }
-
-  .grid figure h2,
-  .grid figure p {
-    margin: 0;
-  }
-
-  .grid figure p {
-    letter-spacing: 1px;
-    font-size: 68.5%;
-  }
-
-}
-*/
-
-#girl {
-
-  position: relative;
-  right: 0;
-  background-image: url(../images/girl.png);
-  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  background-image: url(../images/girl-bg.jpg);
+  background-color: rgb(222,225,215);
   background-repeat: no-repeat;
-  
-
+  float: right;
+  clear: both;
 }
+
+
+/*background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 80%);*/
+
 
 #circle {
 
@@ -222,7 +103,7 @@ body {
 #to-girl {
   background: rgba(255,255,255,.8);
   position: relative;
-  top: 20%;
+  top: 40%;
   clear: both;
   
 }
@@ -231,7 +112,6 @@ body {
   position: relative;
   background-image: url(../images/pod-mishka1.jpg);
   z-index: 100;
-  width: 100%;
 
 }
 
