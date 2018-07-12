@@ -134,3 +134,13 @@ body {
   margin: 5em;
 }
 
+#gridding img {
+
+  width: 50px;
+  height: 50px;
+}
+
+#gridding div {
+
+  margin-top: 2em;
+}
