@@ -18,8 +18,8 @@ body {
   position: relative;
   padding: -10px;
   background-image: url(../images/logo-moveo.png);
-  background-repeat: no-repeat;
-  background-size: 130px auto;
+  background-repeat: repeat;
+  background-size: 1000px auto;
   z-index: 100;
   left: 50%;
 
@@ -161,13 +161,13 @@ body {
 
   grid-column: 1;
   grid-row: 1;
-  border-style: solid;
+  border: solid 1px;
   margin: 50px;
 }
 #to-girl    { 
   grid-column: 1;
    grid-row: 3; 
-   border-style: solid;
+   border: solid 1px;
     margin: 50px;
 }
 #podmishka    {
@@ -175,7 +175,7 @@ body {
   grid-column: 1;
   grid-row: 2;
   align-self: start;
-  border-style: solid;
+  border: solid 1px;
    margin: 50px;
 }
 
@@ -183,7 +183,7 @@ body {
 #board    {
  grid-column: 2;
   grid-row: 1 / span 2;
-    border-style: solid;
+    border: solid 1px;
      margin: 50px;
 }
 
@@ -192,7 +192,7 @@ body {
  grid-column: 2;
   grid-row: 3; 
   justify-self: center;
-   border-style: solid;
+   border: solid 1px;
     margin: 50px;
 }
 
