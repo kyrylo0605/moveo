@@ -493,17 +493,16 @@ body {
 #gridding {
 
   background-image: url(../images/girl1.jpg);
+  background-size: contain;
   background-repeat: no-repeat;
   background-position: right;
-  margin: 5px;
 }
 
 #gridding1 {
 
-  background-image: url(../images/SEB_8006.jpg);
+  background-image: url(../images/SEB_8006.png);
   background-repeat: no-repeat;
-  background-position: left;
-  margin: 5px;
+  background-position: contain;
 }
 
 #gridding2 {
@@ -511,25 +510,69 @@ body {
   background-image: url(../images/foots.png);
   background-repeat: no-repeat;
   background-position: right;
-  margin: 5px;
+}
+
+#gridding3 {
+
+  background-image: url(../images/sunbath1.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+#gridding4 {
+
+  background-image: url(../images/pod-mishka1.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+#gridding5 {
+
+  background-image: url(../images/pod-mishka2.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
 }
 
 #gridding img {
 
   width: 35px;
   height: 35px;
+  margin: 80px 0 0 30px;
 }
 
 #gridding1 img {
 
   width: 35px;
   height: 35px;
+  margin: 80px 0 0 30px;
 }
 
 #gridding2 img {
 
   width: 35px;
   height: 35px;
+  margin: 80px 0 0 30px;
+}
+
+#gridding3 img {
+
+  width: 35px;
+  height: 35px;
+  margin: 80px 0 0 30px;
+}
+
+#gridding4 img {
+
+  width: 35px;
+  height: 35px;
+  margin: 80px 0 0 30px;
+}
+
+#gridding5 img {
+
+  width: 35px;
+  height: 35px;
+  margin: 80px 0 0 30px;
 }
 
 
