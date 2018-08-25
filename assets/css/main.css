@@ -498,17 +498,41 @@ body {
   margin: 5px;
 }
 
+#gridding1 {
+
+  background-image: url(../images/sunbath1.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  margin: 5px;
+}
+
+#gridding2 {
+
+  background-image: url(../images/foots.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  margin: 5px;
+}
+
 #gridding img {
 
   width: 35px;
   height: 35px;
 }
 
-#gridding div {
+#gridding1 img {
 
-  margin-top: 2em;
-
+  width: 35px;
+  height: 35px;
 }
+
+#gridding2 img {
+
+  width: 35px;
+  height: 35px;
+}
+
+
 
 #girl  {
 
