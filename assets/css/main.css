@@ -492,13 +492,16 @@ body {
 
 #gridding {
 
-  margin: 4em;
+  background-image: url(../images/girl1.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  margin: 5px;
 }
 
 #gridding img {
 
-  width: 25px;
-  height: 25px;
+  width: 35px;
+  height: 35px;
 }
 
 #gridding div {
