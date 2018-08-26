@@ -528,6 +528,13 @@ body {
 
 #gridding5 {
 
+  background-image: url(../images/chamomile-conv.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+
+#gridding6 {
+
   background-image: url(../images/pod-mishka2.jpg);
   background-repeat: no-repeat;
   background-position: left;
@@ -569,6 +576,13 @@ body {
 }
 
 #gridding5 img {
+
+  width: 35px;
+  height: 35px;
+  margin: 50px 0 30px 30px;
+}
+
+#gridding6 img {
 
   width: 35px;
   height: 35px;
