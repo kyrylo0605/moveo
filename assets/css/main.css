@@ -529,9 +529,11 @@ body {
 #gridding5 {
 
   background-image: url(../images/chamomile-conv.jpg);
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-position: left;
+  background-size: contain;
 }
+
 
 #gridding6 {
 
