@@ -589,7 +589,19 @@ body {
   margin: 50px 0 30px 30px;
 }
 
+#consult {
 
+  color: #ffffff;
+  margin: 100px 0 100px 100px;
+}
+
+#block-mail {
+
+  width: 400px;
+  height: 200px;
+  background-color: #ffffff;
+  margin: 70px;
+}
 
 #girl  {
 
