@@ -695,7 +695,7 @@ footer {
 
   width: 100%;
   height: 200px;
-  background-color: olive;
+  background-color: rgb(51,165,28);
   color: white;
 }
 
@@ -704,4 +704,15 @@ footer h1 {
   float: right;
   margin: 10px;
 
+}
+
+footer .col-md-3 {
+
+  margin: 30px;
+}
+
+footer span h1 {
+
+  text-align: center;
+  font-weight: 800;
 }
