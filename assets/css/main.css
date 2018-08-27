@@ -715,3 +715,9 @@ footer span h1 {
   text-align: left;
   font-weight: 800;
 }
+
+.social img {
+
+  margin-left: 20px;
+  margin-top: 20px;
+}
