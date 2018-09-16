@@ -514,7 +514,7 @@ body {
 
 #gridding3 {
 
-  background-image: url(../images/sunbath1.png);
+  background-image: url(../images/murcielago.jpg);
   background-repeat: no-repeat;
   background-position: left;
 }
@@ -537,9 +537,10 @@ body {
 
 #gridding6 {
 
-  background-image: url(../images/pod-mishka2.jpg);
+  background-image: url(../images/murcielago.jpg);
   background-repeat: no-repeat;
   background-position: left;
+  background-attachment: contain;
 }
 
 #gridding img {
