@@ -408,7 +408,7 @@ body {
 #girlsmile {
 
   position: absolute;
-  background-image: url(../images/murcielago.jpg);
+  background-image: url(../images/murcielago-pink.jpg);
   background-color: rgb(222,225,215);
   background-repeat: no-repeat;
   float: right;
@@ -500,21 +500,21 @@ body {
 
 #gridding1 {
 
-  background-image: url(../images/SEB_8006.png);
+  background-image: url(../images/murcielago-pink.jpg);
   background-repeat: no-repeat;
   background-position: right;
 }
 
 #gridding2 {
 
-  background-image: url(../images/foots.png);
+  background-image: url(../images/murcielago-pink.jpg);
   background-repeat: no-repeat;
   background-position: right;
 }
 
 #gridding3 {
 
-  background-image: url(../images/murcielago.jpg);
+  background-image: url(../images/murcielago-pink.jpg);
   background-repeat: no-repeat;
   background-position: left;
 }
@@ -537,7 +537,7 @@ body {
 
 #gridding6 {
 
-  background-image: url(../images/murcielago.jpg);
+  background-image: url(../images/murcielago-pink.jpg);
   background-repeat: no-repeat;
   background-position: left;
   background-attachment: contain;
